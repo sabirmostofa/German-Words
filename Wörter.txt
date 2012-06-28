@@ -69,8 +69,8 @@ Stimmung - Mode, Atmosphere
 entspannen - relax
 klappen - fold, work out
 Eifer - Zeal, Enthusiasm
-SÜchtig - Addicted
-EiferSüchtig - Jealous
+Süchtig - Addicted
+Eifersüchtig - Jealous
 Kümmern - Concern , Care 
 Wegen - Because of
 Pädagogisch - Pedagogic(Concerning Teaching Method)
@@ -120,7 +120,7 @@ Swar
 verwirklichen - Realize, achieve(Ziel, Traum)
 Abwechslung - change(vom alltag)
 Beschwerde - Complaint
-Beschweren -(reflexive verb) comlain -- Ich moechte mich beschweren
+Beschweren -(reflexive verb) complain -- Ich moechte mich beschweren
 Ernähren - feed, nourish
 Ernährung - food, nutrition
 bevorzugen - (lieber moegen) prefer, give preference to
@@ -133,7 +133,7 @@ Andauern - Persist , GO on
 Daumendrücken - cross one's fingers
 Aufregen- Excite
 aufgeregt - excited 
-Bescheid - Notification
+Bescheid - Notification,decision
 Kommilitonen - Fellow Student
 entweder - Either
 Annehmen - Accept
@@ -141,3 +141,39 @@ Bescheurt - Verrückt, dumm
 unfassbar -unbelievable, unfathomable
 Zusätzlich - Additional - Extra
 Rathaus - Town hall
+zuverlässigen - Reliable
+Umgang - Handling , Dealings
+Aufpassen - watch
+betreuen - look after
+Rechtzeitig - timely, punctual
+nachweisen - prove
+Vorlesung - Lecture
+stellvertretende - Deputy
+Wettbewerb - Competition
+verlangen - demand
+Antreten - Line up, Turn up
+Bewegung - Motion
+Schwappen - splash
+Entsperren - Unlock
+Fähig - Capable 
+Fähigkeit - Capability 
+Betreuung - Care 
+Vertrauen - Trust
+Entsprechen - Correspond / Correspond to 
+Verbessern - Improve
+Voraussetzung - Prerequisite 
+Bissen - Bite
+geduldig - Patient
+Ständig - Permanent, Constant
+Verzweifelt - Desperate
+eng - narrow
+zweifel - doubt
+begeistert - enthusiastic
+
+
+#Confusing words
+#####
+Peinlich - Embarrassing
+Köstlich - Delicious 
+
+#####
